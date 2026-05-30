@@ -6,5 +6,5 @@
 Так что не ругайтесь на меня пожалуйста.
 
 # EN
-This Project Was Coded as a Joke because of the idea of what happend if NjRat and Roblox combined.
-So please don't scold me. 
+##### This Project Was Coded as a Joke because of the idea of what happend if NjRat and Roblox combined.
+##### So please don't scold me. 
