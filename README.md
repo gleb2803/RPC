@@ -1,3 +1,4 @@
+![Lol Logo Not Loaded](/preview/logo.png "This is a simple logo.")
 # RPC (Remote Place Controll)
 ###### A Simple Tool To Remote Controll Roblox Places.
 
