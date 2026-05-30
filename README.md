@@ -1,5 +1,5 @@
 # RPC (Remote Place Controll)
-##A Simple Tool To Remote Controll Roblox Places.
+## A Simple Tool To Remote Controll Roblox Places.
 
 # RU
 ## Этот проект был написан в шутку из за идеи что будет если обьединить NjRat и Roblox.
