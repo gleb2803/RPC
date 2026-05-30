@@ -1,5 +1,5 @@
 ![Lol Logo Not Loaded](preview/Logo.png)
-# RPC (Remote Place Controll)
+# RPC (Remote Place Controller)
 ###### A Simple Tool To Remote Controll Roblox Places.
 
 # RU
