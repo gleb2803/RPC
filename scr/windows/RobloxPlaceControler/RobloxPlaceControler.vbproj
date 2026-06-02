@@ -11,10 +11,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Resources\Screenshot_20260408-185221.jpg" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Include="RobloxPlaceControlerLogo_multi.ico" />
   </ItemGroup>
 
